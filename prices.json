@@ -1,0 +1,18 @@
+{
+  "prices": {
+    "base": 15,
+    "designer": 50,
+    "shippingStandard": 10,
+    "shippingChurch": 5,
+    "print": {
+      "A0": 1.6,
+      "A1": 0.8,
+      "A2": 0.4,
+      "A3": 0.2,
+      "A4": 0.02,
+      "A5": 0.01,
+      "A6": 0.005,
+      "A7": 0.0025
+    }
+  }
+}
