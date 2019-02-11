@@ -1,7 +1,7 @@
 {
   "prices": {
     "base": 15,
-    "designer": 50,
+    "designer": 40,
     "shippingStandard": 10,
     "shippingChurch": 5,
     "print": {
